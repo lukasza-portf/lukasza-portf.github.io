@@ -1133,6 +1133,70 @@ a {
   color: #000000;
   text-align: center;
 }
+.cid-tiK39cLRRH {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-tiK39cLRRH .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tiK39cLRRH .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tiK39cLRRH .row {
+  align-items: stretch;
+  justify-content: center;
+}
+.cid-tiK39cLRRH .row .img-item {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+.cid-tiK39cLRRH .row .img-item img {
+  width: 100%;
+  object-fit: cover;
+  min-height: 1px;
+}
+.cid-tiK4pRS422 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-tiK4pRS422 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tiK4pRS422 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tiK4pRS422 .row {
+  align-items: stretch;
+  justify-content: center;
+}
+.cid-tiK4pRS422 .row .img-item {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+.cid-tiK4pRS422 .row .img-item img {
+  width: 100%;
+  object-fit: cover;
+  min-height: 1px;
+}
 .cid-tgFt5Jr1qL {
   padding-top: 2rem;
   padding-bottom: 9rem;
@@ -1219,34 +1283,6 @@ a {
   flex-direction: row-reverse;
 }
 .cid-tgFvWzrddG img {
-  width: 100%;
-}
-.cid-tgFCtqbB80 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tgFCtqbB80 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tgFCtqbB80 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-tgFCtqbB80 .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-tgFCtqbB80 .row {
-  flex-direction: row-reverse;
-}
-.cid-tgFCtqbB80 img {
   width: 100%;
 }
 .cid-tixJntH4CA {
